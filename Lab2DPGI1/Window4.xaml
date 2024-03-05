@@ -1,0 +1,15 @@
+﻿<Window x:Class="Lab2DPGI1.Window4"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab2DPGI1"
+        mc:Ignorable="d"
+        Title="Window4" Height="450" Width="800">
+    <Canvas Background="Aqua">
+        <Label Canvas.Top="20" Canvas.Left ="20">Label</Label>
+        <TextBox Canvas.Top="40" Canvas.Left ="40">Text</TextBox>
+        <Button Width="40" Height="20" Canvas.Top="60" Canvas.Left ="60">Button</Button>
+    </Canvas>
+
+</Window>

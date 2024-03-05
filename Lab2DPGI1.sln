@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2DPGI1", "Lab2DPGI1\Lab2DPGI1.csproj", "{629D90E9-2671-491F-87C0-9A8A2BEF23DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{629D90E9-2671-491F-87C0-9A8A2BEF23DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{629D90E9-2671-491F-87C0-9A8A2BEF23DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{629D90E9-2671-491F-87C0-9A8A2BEF23DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{629D90E9-2671-491F-87C0-9A8A2BEF23DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9517D54-DA3D-4D8B-A5C3-E274885E3277}
+	EndGlobalSection
+EndGlobal
